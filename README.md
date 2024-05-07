@@ -17,12 +17,7 @@ Se utilizó ademas, custom hooks y contextos para comunicar las pantallas.
 Se siguió con la aplicación desarrollada en el punto 5:
 
 - API publica utilizada: Api de Rick and Morty.
-
- uso de
-alguna API pública, creando así una lista que consuma los datos
-de la API elegida, haciendo uso del FlatList y size matters.
-
-- Se implementó `FlatList` componente propio de React Native para el manejo optimo de listas.
+- Se implementó `FlatList` componente propio de React Native para el manejo optimo de listas para mostrar el listado de personajes de la serie.
 - Se implementó la librería `react-native-size-matters` para manejar los tamaños de fuentes e imágenes.
 
 
